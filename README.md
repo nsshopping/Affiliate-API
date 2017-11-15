@@ -2,25 +2,6 @@
 
 NS홈쇼핑 입점을 위해 제공하는 Open API 입니다. 관련하여 추가 문의 내용은 itcs@nsmall.com 으로 문의하시면 보다 자세한 안내 드리겠습니다.
 
-[Ver 1.29] (변경날짜 2017-11-29)
-
- 네이버 가격비교에 제공하는 상품 필수정보 추가
- 변경 사항
-GD101:상품등록 
- -> 상품 상태 코드(GOODS_STAT_CD) 추가)
- -> 주문 제작 여부(ORDER_PRDT_YN) 추가)
- -> 국내 해외 방식 코드(DMST_OVS_MEANS_CD) 추가)
- -> 판매 방식 코드(SALE_MEANS_CD) 추가)
- -> 별도 설치비 여부(EXTRA_INSTF_YN) 추가)
- -> 차등 배송비 여부(DSCR_DLVRF_YN) 추가)
-GD103:상품수정 
- -> 상품 상태 코드(GOODS_STAT_CD) 추가)
- -> 주문 제작 여부(ORDER_PRDT_YN) 추가)
- -> 국내 해외 방식 코드(DMST_OVS_MEANS_CD) 추가)
- -> 판매 방식 코드(SALE_MEANS_CD) 추가)
- -> 별도 설치비 여부(EXTRA_INSTF_YN) 추가)
- -> 차등 배송비 여부(DSCR_DLVRF_YN) 추가)
-
 [Ver 1.28] (변경날짜 2017-11-08)
 
  상품 단품(옵션)의 대표상품.가격으로 선택 기능 추가
