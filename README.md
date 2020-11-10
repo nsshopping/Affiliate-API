@@ -10,11 +10,11 @@
   
   [Ver 1.40] (변경날짜 2020-11-10)
   - 안전확인대상 생활화학제품에 대해 안전확인신고번호 표기 필수
-    **상품등록(GoodsAdd), 상품수정(GoodsMod) API에 SAFE_CERT_VAL 필드 추가
+  - 상품등록(GoodsAdd), 상품수정(GoodsMod) API에 SAFE_CERT_VAL 필드 추가
   
   [Ver 1.39] (변경날짜 2020-10-21)
   - 안전인증 대상 상품분류코드에 대해 안전인증코드 필수
-    **상품등록(GoodsAdd), 상품수정(GoodsMod) API에 SAFE_CERT_CD, SAFE_CERT_NUM 필드 추가
+  - 상품등록(GoodsAdd), 상품수정(GoodsMod) API에 SAFE_CERT_CD, SAFE_CERT_NUM 필드 추가
     
   [제휴_인바운드_API_에러리턴메세지_ver 1.3] (변경날짜 2020-10-21)
    - 안전인증대상 관련 필드 추가에 따른 에러리턴메시지 추가 
