@@ -4,9 +4,14 @@
  관련하여 추가 문의 내용은 itcs@nsmall.com 으로 문의하시면 보다 자세한 안내 드리겠습니다.
 
 ** 공지사항 (가이드)
-  1. 최신버전의 API 가이드 : NSMall_EDI_API_Specs_v1.36_20190503
-  2. API 개발 에러메시지 가이드 : 제휴_인바운드_API_에러리턴메세지_v1.0.xlsx
-  3. 변경 및 공지 가이드 : README.md
+  1. 최신버전의 API 가이드 : NS_EDI_API_Specs_v1.43_20220321.xlsx
+  2. API 개발 에러메시지 가이드 : IB_API_ReturnMessage_v1.6.xlsx
+  3. 방화벽요청서 : NS_API 방화벽요청서_V1.0.xls
+  4. 변경 및 공지 가이드 : README.md
+  
+  [Ver 1.43] (변경날짜 2022-03-21)
+  - 도서분류체계 상품 등록시, 도서필수 정보3개 추가 (도서분류시 필수)
+  - 상품등록(GoodsAdd), 상품수정(GoodsMod) API에 필드(BOOK_TYPE,BOOK_GUBUN, BOOK_IS_NUM)
   
   [Ver 1.40] (변경날짜 2020-11-10)
   - 안전확인대상 생활화학제품에 대해 안전확인신고번호 표기 필수
