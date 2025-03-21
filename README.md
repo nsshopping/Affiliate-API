@@ -6,7 +6,7 @@
 ** 공지사항 (가이드)
   1. 최신버전의 API 가이드 : NSMall_EDI_API_Specs_v2.5_20250307.xls
   2. API 개발 에러메시지 가이드 : IB_API_ReturnMessage_v2.5_20250319.xls
-  3. 방화벽요청서 : NS_API 방화벽요청서_V1.0.xls
+  3. 방화벽요청서 : NS_API 방화벽요청서_V2.0.xls
   4. 변경 및 공지 가이드 : README.md
 
   [Ver 2.5] (변경날짜 2025-03-11)
