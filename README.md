@@ -4,8 +4,8 @@
  관련하여 추가 문의 내용은 itcs@nsmall.com 으로 문의하시면 보다 자세한 안내 드리겠습니다.
 
 ** 공지사항 (가이드)
-  1. 최신버전의 API 가이드 : NSMall_EDI_API_Specs_v2.1_20230118.xls
-  2. API 개발 에러메시지 가이드 : IB_API_ReturnMessage_v2.1_20230118.xls
+  1. 최신버전의 API 가이드 : NSMall_EDI_API_Specs_v2.5_20250307.xls
+  2. API 개발 에러메시지 가이드 : IB_API_ReturnMessage_v2.5_20250319.xls
   3. 방화벽요청서 : NS_API 방화벽요청서_V1.0.xls
   4. 변경 및 공지 가이드 : README.md
 
