@@ -4,13 +4,13 @@
  관련하여 추가 문의 내용은 itcs@nsmall.com 으로 문의하시면 보다 자세한 안내 드리겠습니다.
 
 ** 공지사항 (가이드)
-  1. 최신버전의 API 가이드 : NSMall_EDI_API_Specs_v2.7_20251111.xls
+  1. 최신버전의 API 가이드 : NSMall_EDI_API_Specs_v2.7_20251124.xlsx
   2. API 개발 에러메시지 가이드 : IB_API_ReturnMessage_v2.6_20250401.xls
   3. 방화벽요청서 : NS_API 방화벽요청서_V2.0.xls
   4. 변경 및 공지 가이드 : README.md
 
-  [Ver 2.7] (변경날짜 2025-11-11)
-  - API : API 호출제한 추가
+  [Ver 2.7] (변경날짜 2025-11-25)
+  - API : API 호출제한 추가 (API 요청수 증가)
 
   [Ver 2.6] (변경날짜 2025-04-01)
   - API : 배송연동 API 전송시, 택배사별 송장 길이 체크(필수)
