@@ -8,11 +8,14 @@
      - 서비스중 허용되지 않는 IP 는 itcs@nsmall.com 으로 바로 메일 주세요.
 
 ** 공지사항 (가이드)
-  1. 최신버전의 API 가이드 : NSMall_EDI_API_Specs_v2.7_20251124.xlsx
+  1. 최신버전의 API 가이드 : NSMall_EDI_API_Specs_v3.1_20260415.xlsx
   2. API 개발 에러메시지 가이드 : IB_API_ReturnMessage_v2.6_20250401.xls
   3. 방화벽요청서 : NS_API 방화벽요청서_V2.0.xls
   4. 변경 및 공지 가이드 : README.md
 
+  [Ver 3.1] (변경날짜 2026-04-15)
+  - 상품등록/수정 API의 단위가격품목/총중량 컬럼 추가/개선
+  - 
   [Ver 3.0] (변경날짜 2026-04-01)
   - 단위가격 항목 API 신설
   - 상품등록/수정 API의 단위가격품목/총중량 컬럼 추가
