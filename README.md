@@ -5,10 +5,13 @@
 *** 보안정책 변경 & 허용되지 않은 IP 접근 차단 (03.25 이후) ***
 
 ** 공지사항 (가이드)
-  1. 최신버전의 API 가이드 : NSMall_EDI_API_Specs_v3.2_20260520.xlsx
-  2. API 개발 에러메시지 가이드 : IB_API_ReturnMessage_v3.2_20260520.xlsx
+  1. 최신버전의 API 가이드 : NSMall_EDI_API_Specs_v3.3_20260615.xlsx
+  2. API 개발 에러메시지 가이드 : IB_API_ReturnMessage_v3.3_20260615.xlsx
   3. 방화벽요청서 : NS_API 방화벽요청서_V2.0.xls
   4. 변경 및 공지 가이드 : README.md
+     
+  [Ver 3.3] (변경날짜 2026-06-15)
+  - 상품등록/수정 API의 바코드 컬럼 추가
 
   [Ver 3.2] (변경날짜 2026-05-20)
   - 상품수정 API의 모델명 컬럼 추가
