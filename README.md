@@ -4,6 +4,8 @@
 
 $\color{red}{\text{<h1>*** 보안정책 변경 & 허용되지 않은 IP 접근 차단 (03.25 이후) *** </h1>}}$
 $\color{red}{\text{빨간색 글자}}$
+$\color{red}{빨간색 텍스트}$
+<p>$\it{\large{\color{#DD6565}이텔릭체,\ 큰글씨,\ 빨간색}}$</p>
 
 ** 공지사항 (가이드)
   1. 최신버전의 API 가이드 : NSMall_EDI_API_Specs_v3.3_20260615.xlsx
