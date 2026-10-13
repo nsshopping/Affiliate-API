@@ -2,19 +2,18 @@
  NS홈쇼핑 입점을 위해 제공하는 Open API 입니다.
  관련하여 추가 문의 내용은 itcs@nsmall.com 으로 문의하시면 보다 자세한 안내 드리겠습니다.
 <br>
-<p>$\huge{\large{\color{#6580DD}*** 보안정책 변경 >> 허용되지 않은 IP 접근 차단 (03.25) ***}}$</p>
-<p>$\huge{\large{\color{#DD6565}*** 2차 보안정책 변경 >> 허용되지 않은 IP 접근 차단 (시행 09.16 이후) ***}}$</p>
-<p>$\huge{-. (26.09.09부터  09.16까지) 인입 협력사 IP 재 취합 기간 (미 취합 IP 차단 예정)}$</p>
-<br>
-<br>
+<p>$\huge{\large{\color{#6580DD}*** 보안정책 강화 * 허용되지 않은 IP 접근 차단 (시행 26.10.07 이후) ***}}$</p>
 <br>
 
 ** 공지사항 (가이드)
-  1. 최신버전의 API 가이드 : NSMall_EDI_API_Specs_v3.3_20260615.xlsx
-  2. API 개발 에러메시지 가이드 : IB_API_ReturnMessage_v3.3_20260615.xlsx
+  1. 최신버전의 API 가이드 : NSMall_EDI_API_Specs_v3.4_20261013.xlsx
+  2. API 개발 에러메시지 가이드 : IB_API_ReturnMessage_v3.4_20261014.xlsx
   3. 방화벽요청서 : NS_API 방화벽요청서_V2.0.xls
   4. 변경 및 공지 가이드 : README.md
 
+  [Ver 3.4] (변경날짜 2026-10-13)
+  - 상품등록 API 필수값 변경  (와이드 이미지 / WIDE_IMG) 
+    
   [Ver 3.3] (변경날짜 2026-08-12)
   - 상품등록/수정 API의 상품이미지 중 PNG 파일은 자동 JPG 전환 기능 적용
      
